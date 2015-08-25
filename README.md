@@ -4,6 +4,8 @@ This is a pinteresting sample application
 
 Juan Carlos Rojas
 
+08/25/15
+
 == README
 
 This README would normally document whatever steps are necessary to get the
