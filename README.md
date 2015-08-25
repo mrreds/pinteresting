@@ -1,3 +1,9 @@
+# One Month Rails App
+
+This is a pinteresting sample application
+
+Juan Carlos Rojas
+
 == README
 
 This README would normally document whatever steps are necessary to get the
